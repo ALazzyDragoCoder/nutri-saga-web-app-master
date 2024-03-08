@@ -1,4 +1,4 @@
-### Link of the app: [Nutri-Saga](https://nutri-saga.netlify.app/).
+### Link of the app: [Nutri-Saga](https://nutri-saga-frontend.vercel.app/).
 ### How to start?
 1. clone the app
 2. npm install
